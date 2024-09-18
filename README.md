@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anjali Khanduri</h1>
-<h3 align="center">A passionate data Analyst from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalikhanduri22&label=Profile%20views&color=0e75b6&style=flat" alt="anjalikhanduri22" /> </p>
 
-- 🌱 I’m currently learning **python,Excel,PowerBi**
+
 
 - 📫 How to reach me **benjwal.anji@gmail.com**
 
